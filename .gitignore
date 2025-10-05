@@ -1,5 +1,7 @@
-# Maven
+# Build artifacts
 target/
+out/
+build/
 
 # IntelliJ IDEA
 .idea/
@@ -10,9 +12,9 @@ target/
 # VS Code
 .vscode/
 
-# macOS
+# OS junk
 .DS_Store
+Thumbs.db
 
-# Maven Wrapper (если используешь)
-!.mvn/wrapper/maven-wrapper.jar
-!.mvn/wrapper/maven-wrapper.properties
+# Logs
+*.log
