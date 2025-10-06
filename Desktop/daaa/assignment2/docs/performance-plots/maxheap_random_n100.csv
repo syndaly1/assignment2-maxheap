@@ -1,0 +1,6 @@
+n,dist,run,millis,comparisons,swaps,reads,writes,peakBytes
+100,random,1,0,1056,530,3372,1260,416
+100,random,2,0,1086,554,3480,1308,416
+100,random,3,0,1057,523,3360,1246,416
+100,random,4,0,1071,534,3410,1268,416
+100,random,5,0,1054,523,3354,1246,416
